@@ -2,8 +2,6 @@
 
 ![Apu Wizard](https://res.cloudinary.com/teepublic/image/private/s--rmNdgszY--/t_Preview/b_rgb:191919,c_limit,f_jpg,h_630,q_90,w_630/v1546640696/production/designs/3888797_0.jpg)
 
-![Pepe Wizard](https://github.com/highboi/highboi/blob/darth_pol.gif)
-
 I am interested in:
 - Web 3.0
 - Web Development in General
